@@ -11,22 +11,18 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Yash Gupta </span>
             from <span className="purple"> Faridabad, Haryana, India.</span>
             <br /> I am a final year student pursuing by Bachelor's in Information Technology at MMMUT Gorakhpur.
-            {/* <br />
-            Additionally, I am currently employed as a software developer at
-            Juspay.
-            <br /> */}
             <br />
-            Apart from coding, some other activities that I love to do!
+            I also do problem solving on various coding platforms like <span className="purple"> Leetcode</span> {" "} and {" "}
+            <span className="purple"> GeeksForGeeks.</span>
+            <br />
+            Online Coding Profiles: 
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Watching Movies
+              <ImPointRight /> <a href="https://leetcode.com/Yash__001/" target="_blank" rel="noopener noreferrer"><span className="purple"> Leetcode.</span></a>
             </li>
             <li className="about-activity">
-              <ImPointRight /> Watching Cricket
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Reading Books
+              <ImPointRight /> <a href="https://auth.geeksforgeeks.org/user/yash001/" target="_blank" rel="noopener noreferrer"><span className="purple"> GeeksForGeeks.</span></a>
             </li>
           </ul>
 
